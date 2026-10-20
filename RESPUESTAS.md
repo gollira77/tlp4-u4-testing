@@ -42,7 +42,7 @@ Y si además se corren en CI (GitHub Actions, paso 9), esas garantías se extien
 
 ---
 
-# 🎯 BONUS — Preguntas de repaso de la teoría (§12)
+# 🎯 BONUS — Preguntas de repaso de la teoría 
 
 ## T1. ¿Por qué una API que devuelve una respuesta HTTP 200 puede contener errores de negocio?
 
